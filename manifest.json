@@ -1,0 +1,8 @@
+{
+  "name": "德州助手",
+  "short_name": "德州",
+  "start_url": "./poker.html",
+  "display": "standalone",
+  "background_color": "#f2f2f7",
+  "theme_color": "#007aff"
+}
